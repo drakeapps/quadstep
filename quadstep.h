@@ -9,7 +9,7 @@
 #ifndef quadstep_h
 #define quadstep_h
 
-#include "WProgram.h"
+#include "Arduino.h"
 
 
 /*

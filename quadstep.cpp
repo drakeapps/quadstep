@@ -6,7 +6,7 @@
 
 */
 
-#include "WProgram.h"
+#include "Arduino.h"
 #include "quadstep.h"
 
 #define STEPMIN	800
