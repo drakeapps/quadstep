@@ -2,10 +2,11 @@
   SparkFun Electronics 2011
   Aaron Weiss, aaron at sparkfun dot com
   John Miller, johnjamesmiller.com
+  James Wilson, ja.meswilson.com
   Beer-ware License: You can do whatever you want with this sketch.
                      If we meet someday, you can buy me a beer.
                      
-  QuadSetpper Example Sketch. For use with a stepper motor.
+  QuadStepper Example Sketch. For use with a stepper motor.
 
   Library Usage: 
 
@@ -19,7 +20,7 @@
   z: increments for given step size
      for full step: 1 increment = 1.8deg
      for half step: 1 increment = 0.9deg and so on
-     negaitve numbers rotate in the opposite direction
+     negative numbers rotate in the opposite direction
   l: torque/speed (0-10), 0 is high speed/low torque/low current
                           10 is low speed/high torque/high current (2.0A max)
   stall()
